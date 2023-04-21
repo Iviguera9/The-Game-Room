@@ -2,17 +2,17 @@
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
-The Gaming Room is a web-based videogame developers that me on expanding their game, "Draw it or Lose it", to other platforms. The game is currently designed for Android and they wish to explore other consoles or Operating Systems. They gave me free range to explore other systems to develop on, as long as their budget and client traffic weren't affected negatively.
+The Gaming Room is a web-based videogame developer team that tasked me on expanding their game, "Draw it or Lose it", to other platforms. The game is currently designed for Android and they wish to explore other consoles or Operating Systems. They gave me free range to explore other systems to develop on, as long as their budget and client traffic weren't affected negatively.
 
 
 What did you do particularly well in developing this documentation?
 
-What I did well while documenting this assigment was the recomendations portion of the document, since I detailed every aceptable option available and provided detailed explanation for my selection.
+What I did well while documenting this assigment was the recomendations portion of the document. I detailed every aceptable option available, provided a logical explanation for them, and consulted with outside sources to ensure every recomendation is acceptable.
 
 
 What about the process of working through a design document did you find helpful when developing the code?
 
-Having a detailed design document with an extensive breakdown of the client's request, improves development due to the organization and specificity of the requirements. Detailing an exact development request restrict the developer from branching out from the app idea and provides exacly what the customer wants and needs.
+Having a detailed design document with an extensive breakdown of the client's request improves development due to the organization and specificity of the requirements. Detailing an exact development request restrict the developer from branching out from the app idea and provides exacly what the customer wants and needs.
 
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
