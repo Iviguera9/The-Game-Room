@@ -2,7 +2,7 @@
 
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
-The Gaming Room is a web-based videogame developer team that tasked me on expanding their game, "Draw it or Lose it", to other platforms. The game is currently designed for Android and they wish to explore other consoles or Operating Systems. They gave me free range to explore other systems to develop on, as long as their budget and client traffic weren't affected negatively.
+The Gaming Room is a videogame developer team that tasked me on expanding their game, "Draw it or Lose it", to other platforms. The game is currently designed for Android and they wish to explore other consoles or Operating Systems. They gave me free range to explore other systems to develop on, as long as their budget and client traffic weren't affected negatively.
 
 
 What did you do particularly well in developing this documentation?
